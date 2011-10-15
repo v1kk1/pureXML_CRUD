@@ -1,4 +1,4 @@
-package com.vikki;
+package servletPack;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
@@ -7,15 +7,15 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class Update_Servlet
+ * Servlet implementation class Delete_Servlet
  */
-public class Update_Servlet extends HttpServlet {
+public class Delete_Servlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public Update_Servlet() {
+    public Delete_Servlet() {
         super();
         // TODO Auto-generated constructor stub
     }

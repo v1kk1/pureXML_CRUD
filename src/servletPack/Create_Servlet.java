@@ -1,4 +1,4 @@
-package com.vikki;
+package servletPack;
 
 import java.io.IOException;
 import java.io.PrintWriter;
